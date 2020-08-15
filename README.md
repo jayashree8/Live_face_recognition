@@ -13,3 +13,4 @@
 Note: 1) Make sure the images are taken in good lighting otherwise poor results will be obtained.
       2) Make sure the "shape_predictor_68_face_landmarks.dat_2" in in the same folder as the "test.py" file.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
